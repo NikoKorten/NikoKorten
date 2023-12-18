@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikolas Korten</h1>
 <h3 align="center">A passionate computer scientist from Germany</h3>
 
-- 🔭 I’m currently working on **The module Programming Web Application Interfaces from my software development studies**
+- 🔭 I’m currently working on **the module programming web application interfaces from my software development studies**
 
-- 🌱 I’m currently learning **Web development and cyber Security**
+- 🌱 I’m currently learning **web development and cyber Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
