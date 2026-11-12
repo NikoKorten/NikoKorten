@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nikolas Korten</h1>
-<h3 align="center">A passionate computer scientist from Germany</h3>
+<h1 align="center">Hi, I'm Nikolas Korten</h1>
+<h3 align="center">System Administrator · Software Development Student · Future Cybersecurity Engineer</h3>
 
-- 🔭 I’m currently working on **the module programming web application interfaces from my software development studies**
-
-- 🌱 I’m currently learning **web development and cyber Security**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikolas-korten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolas-korten" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/nikolas-korten">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+---
+
+### About Me
+
+- Currently working as a **System Administrator**, managing Active Directory, Linux web servers, applications and endpoints
+- Studying for a **B.Sc. in Software Development**
+- Working towards a career in **Cybersecurity**, with a focus on security engineering and infrastructure hardening
+- Currently exploring **agile project management**, **Kubernetes** and **container security**
+- Building **
